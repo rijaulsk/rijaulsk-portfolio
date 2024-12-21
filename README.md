@@ -1,8 +1,8 @@
-# Modern Portfolio Website
+![image](https://github.com/user-attachments/assets/50582138-2dfb-4bd4-bc4d-e76ae52a6d1c)# Modern Portfolio Website
 
 A sleek, responsive portfolio website built with React, TypeScript, and Framer Motion. Features a modern design with smooth animations and dark mode support.
 
-![Portfolio Preview]()
+![Portfolio Preview](https://rijaulsk-portfolio-ar0wvilt4-rijaul-sks-projects.vercel.app/)
 
 ## Features
 
