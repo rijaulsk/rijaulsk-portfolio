@@ -2,7 +2,7 @@
 
 A sleek, responsive portfolio website built with React, TypeScript, and Framer Motion. Features a modern design with smooth animations and dark mode support.
 
-![Portfolio Preview](https://rijaulsk-portfolio.vercel.app/)
+## [Portfolio Preview](https://rijaulsk-portfolio.vercel.app/)
 
 ## Features
 
