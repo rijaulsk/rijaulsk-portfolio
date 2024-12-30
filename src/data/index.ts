@@ -1,11 +1,13 @@
-import { Project, Testimonial, BlogPost } from '../types';
+import { Project, Testimonial, BlogPost } from '../types'; 
+import xpenseImage from '../assets/xpense.png';
+import lazycartImage from '../assets/lazycart.png';
 
 export const projects: Project[] = [
   {
     id: 1,
     title: 'Xpense',
     description: 'A React/Redux expense tracker application storing data locally within the browser',
-    image: 'https://images.unsplash.com/photo-1554224155-8d04cb21cd6c',
+    image: xpenseImage,
     tags: ['React', 'Redux', 'Moment', 'Toastify', 'Firebase'],
     demoUrl: 'https://xpense-29871.web.app/',
     githubUrl: 'https://github.com/rijaulsk/xpense',
@@ -14,7 +16,7 @@ export const projects: Project[] = [
     id: 2,
     title: 'Lazycart',
     description: 'E-commerce cart system with React/Redux and Fakestore API.',
-    image: 'https://images.unsplash.com/photo-1557821552-17105176677c',
+    image: lazycartImage,
     tags: ['React', 'Redux', 'Bootstrap', 'Firebase'],
     demoUrl: 'https://lazycart-96f49.web.app/',
     githubUrl: 'https://github.com/rijaulsk/lazycart',
